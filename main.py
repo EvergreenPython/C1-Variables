@@ -16,7 +16,7 @@
 firstName = "Lalyn" #String type
 
 favBook = "Fundamentals of Material Balances" #string
-favNumber = 3 #
+favNumber = 3 #int
 isHungry = True #boolean
 favChar = 'l' #char
-pi = 3.14159
+pi = 3.14159 #float
